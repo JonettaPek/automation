@@ -7,9 +7,10 @@
 
 
 import requests
+import credentials
 
 
-API_KEY = 'ffcb3089cc13f82317bbe0616489a3e9'
+API_KEY = credentials.openweather_apikey
 
 
 def get_coordinates():
