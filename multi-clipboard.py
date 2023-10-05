@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
     Author: Pek, Jonetta
-    Date: 5 October
+    Date: 5 October 2023
     Purpose: Program to save and load data to and from json file
 """
 
